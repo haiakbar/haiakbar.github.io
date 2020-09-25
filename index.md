@@ -1,4 +1,4 @@
-[link](/progress.html)
+[What Am I Learning Right Now?](/progress.html)
 
 ## Welcome to GitHub Pages
 
