@@ -1,0 +1,179 @@
+a {
+	color: white;
+	text-decoration: none;
+	font-family: Roboto;
+	font-size: 1.1rem;
+}
+
+h2 {
+	font-family: Open Sans;
+	font-weight: 600;
+	font-size: 3rem;
+	line-height: 4rem;
+}
+
+h3 {
+	font-family: Open Sans;
+	font-weight: 400;
+	font-size: 2rem;
+	line-height: 3rem;
+}
+
+p {
+	font-family: Open Sans;
+	font-weight: 300;
+	font-size: 1.25rem;
+	line-height: 2rem;
+}
+
+#white {
+	color: white;
+}
+
+.header-container {
+	width: 100%;
+	background-color: #4E7FA3;
+	min-height: 80px;
+}
+
+header{
+	max-width: 1024px;
+	min-height: 100px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: white 1px solid;
+
+}
+
+.nav-menu {
+	margin-left: 60px;
+}
+
+.menu-button {
+	color: white;
+	padding: 5px 10px;
+	display: inline-block;
+	border-style: solid;
+	border-width: 0.5px;
+	margin-left: 10px;
+}
+
+.back-button {
+	padding: 8px 15px;
+	background-color: forestgreen;
+	display: inline-block;
+	border-radius: 15px;
+}
+
+.footer-container {
+	width: 100%;
+	background-color: #4E7FA3;
+	min-height: 80px;
+}
+
+footer {
+	max-width: 1024px;
+	min-height: 100px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.footer-menu p {
+	font-weight: 400;
+}
+
+.blue-background {
+	background-color: #4E7FA3;
+}
+
+.white-background {
+	background-color: white;
+}
+.container {
+    max-width: 1024px;
+		margin: 0 auto;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: center;
+}
+
+.section1 {
+	margin: 75px 50px;
+	padding: 50px 35% 50px 50px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.section2 {
+	margin: 75px 50px;
+	width: 100%;
+	height: 75%;
+	background-color: cyan;
+	padding: 50px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.c1sec2{
+	text-align: center;
+	width: 100%;
+}
+
+.c2sec2 {
+	padding: 50px 20px;
+}
+
+.c3sec2 {
+	width: 65%;
+	height: 60%;
+	background-color: coral;
+}
+
+.section3 {
+	margin: 75px 50px;
+	width: 100%;
+	height: 75%;
+	padding: 50px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.c1sec3 {
+	width: 30%;
+	height: 80%;
+	background-color: coral;
+}
+
+.c2sec3 {
+	width: 60%;
+	height: 80%;
+	text-align: right;
+
+}
+
+.section4 {
+	margin: 75px 50px;
+	width: 100%;
+	height: 75%;
+	padding: 50px;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.c1sec4 {
+	text-align: center;
+}
