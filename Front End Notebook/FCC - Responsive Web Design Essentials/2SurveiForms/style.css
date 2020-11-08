@@ -1,0 +1,70 @@
+html {
+  color: white;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 8px;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+label {
+  font-size: 1.5rem;
+}
+
+body {
+  background-image: url("bg.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  margin: 40px 0;
+  max-width: 1024px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-5 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.myColor {
+  background-color: rgb(50,50,50, 0.7);
+  padding: 50px 50px;
+  border-radius: 10px;
+}
+
+.myForm {
+  margin-bottom: 20px;
+}
+
+input, select, textarea {
+  margin-top: 8px;
+}
+
+.myForm span {
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+textarea {
+  box-sizing: border-box;
+  padding: 10px
+}
+
+#submit {
+  padding: 10px 20px;
+  background-color: greenyellow;
+  border-radius: 15px;
+  border-width: 0px;
+}
